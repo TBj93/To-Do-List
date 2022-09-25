@@ -15,6 +15,11 @@ I had to read through the jquery documentation, since I wasn't familiar with the
 
 Html, CSS, Js/Jquery
 
+![alt text](https://github.com/TBj93/To-Do-List/blob/main/screenshots/todo.PNG?raw=true)
+
+![alt text](https://github.com/TBj93/To-Do-List/blob/main/screenshots/todo2.png?raw=true)
+
+
 
 
 
